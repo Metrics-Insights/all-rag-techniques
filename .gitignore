@@ -25,3 +25,5 @@ build/
 .idea/
 *.sublime-workspace
 .ipynb_checkpoints/
+models/
+results/
